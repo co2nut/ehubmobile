@@ -1271,8 +1271,8 @@
 					"-lc++",
 				);
 				PRODUCT_NAME = ehubmobile;
-				PROVISIONING_PROFILE = "bf54e98b-67da-4279-ba80-2a69e75f88fe";
-				PROVISIONING_PROFILE_SPECIFIER = ehubmobileProvProfile;
+				PROVISIONING_PROFILE = "738472d8-9807-41db-aaa8-aebbb9654909";
+				PROVISIONING_PROFILE_SPECIFIER = ehubmobileDistProf;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
@@ -1292,8 +1292,8 @@
 					"-lc++",
 				);
 				PRODUCT_NAME = ehubmobile;
-				PROVISIONING_PROFILE = "bf54e98b-67da-4279-ba80-2a69e75f88fe";
-				PROVISIONING_PROFILE_SPECIFIER = ehubmobileProvProfile;
+				PROVISIONING_PROFILE = "738472d8-9807-41db-aaa8-aebbb9654909";
+				PROVISIONING_PROFILE_SPECIFIER = ehubmobileDistProf;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
