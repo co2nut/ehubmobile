@@ -3,6 +3,7 @@ import { View, Text, Easing, TouchableOpacity } from 'react-native';
 import { connect } from 'react-redux';
 import { Actions } from 'react-native-router-flux';
 import { rightMenuClick } from '../actions';
+import Slideshow from '../components/common/Slideshow';
 
 class ContactUse extends Component {
 
